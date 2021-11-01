@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="example suite 1" duration-ms="28" started-at="2021-11-01T07:28:46Z" finished-at="2021-11-01T07:28:46Z">
+    <groups>
+    </groups>
+    <test name="This is just name can be anything" duration-ms="28" started-at="2021-11-01T07:28:46Z" finished-at="2021-11-01T07:28:46Z">
+      <class name="test1.Class1">
+        <test-method status="PASS" signature="firsttest()[pri:0, instance:test1.Class1@55f3ddb1]" name="firsttest" duration-ms="7" started-at="2021-11-01T07:28:46Z" finished-at="2021-11-01T07:28:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firsttest -->
+      </class> <!-- test1.Class1 -->
+      <class name="test1.Class2">
+        <test-method status="PASS" signature="secondest()[pri:0, instance:test1.Class2@cb5822]" name="secondest" duration-ms="1" started-at="2021-11-01T07:28:46Z" finished-at="2021-11-01T07:28:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondest -->
+      </class> <!-- test1.Class2 -->
+    </test> <!-- This is just name can be anything -->
+  </suite> <!-- example suite 1 -->
+</testng-results>
